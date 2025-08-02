@@ -105,7 +105,7 @@ Heuristics are implemented in `utils/detection.py`.
 ## Project Structure
 
 ```
-wifi-deauth-monitor/
+blue-wifi-deauth-mon/
 ├── src/                # Main script
 │   └── monitor.py
 ├── utils/              # Detection logic
