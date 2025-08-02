@@ -132,6 +132,7 @@ IT Project Manager | Blue Team Cybersecurity Enthusiast
 Based in Spain
 
 [LinkedIn](https://linkedin.com/in/matteostoico)
+
 Email: matteo.stoico@live.it
 
 ## License
