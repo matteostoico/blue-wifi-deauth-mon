@@ -129,7 +129,7 @@ blue-wifi-deauth-mon/
 
 **Matteo Stoico**
 IT Project Manager | Blue Team Cybersecurity Enthusiast
-Based in Spain — Available for remote freelance collaborations
+Based in Spain
 [LinkedIn](https://linkedin.com/in/matteostoico)
 Email: matteo.stoico@live.it
 
